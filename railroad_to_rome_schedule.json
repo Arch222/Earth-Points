@@ -1,0 +1,81 @@
+{
+    "timezone": "-4:00:00",
+    "defaultstopinterval": "00:00:10",
+    "vehicles":
+    [
+        {
+            "name": "Marta Red Route Station",
+            "info": "Tracking the red route(southbound) for Marta",
+            "route": "MARTA railway tracker",
+            "stops":
+            [
+                {
+                    "name": "Airport",
+                    "departure": {"time": "22:26", "day": 1}
+                },
+                {
+                    "name": "College Park MARTA Train Station",
+                    "departure": {"time": "22:28", "day": 1}
+                },
+                {
+                    "name": "East Point Station",
+                    "departure": {"time": "22:30", "day": 1}
+                },
+                {
+                    "name": "Lakewood Station",
+                    "departure": {"time": "22:32", "day": 1}
+                },
+                {
+                    "name": "Oakland City station",
+                    "departure": {"time": "22:35", "day": 1}
+                },
+                {
+                    "name": "West End Station",
+                    "departure": {"time": "22:56", "day": 1}
+                },
+                {
+                    "name": "Garnett Transit Station",
+                    "departure": {"time": "23:05", "day": 1}
+                },
+                {
+                    "name": "Five Points Station",
+                    "departure": {"time": "23:07", "day": 1}
+                },{
+                    "name": "Peachtree Center Transit Station",
+                    "departure": {"time": "23:08", "day": 1}
+                },{
+                    "name": "Civic Center Station",
+                    "departure": {"time": "23:10", "day": 1}
+                },{
+                    "name": "North Ave Station",
+                    "departure": {"time": "23:11", "day": 1}
+                },{
+                    "name": "Midtown",
+                    "departure": {"time": "23:14", "day": 1}
+                },{
+                    "name": "Arts Center MARTA Station",
+                    "departure": {"time": "23:15", "day": 1}
+                },{
+                    "name": "Lindbergh Ctr Station (N Loop)",
+                    "departure": {"time": "23:19", "day": 1}
+                },{
+                    "name": "Buckhead Station",
+                    "departure": {"time": "23:22", "day": 1}
+                },{
+                    "name": "Medical Center Station",
+                    "departure": {"time": "23:27", "day": 1}
+                },{
+                    "name": "Dunwoody Station",
+                    "departure": {"time": "23:29", "day": 1}
+                },{
+                    "name": "Sandy Springs Station",
+                    "departure": {"time": "23:31", "day": 1}
+                },{
+                    "name": "North Springs MARTA",
+                    "arrival": {"time": "23:33", "day": 1}
+                }
+
+            ]
+        }
+    ]
+}
