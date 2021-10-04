@@ -1,2 +1,2 @@
 # Earth-Points
-Mapping System Using Leafle
+Mapping System Using Leaflet
